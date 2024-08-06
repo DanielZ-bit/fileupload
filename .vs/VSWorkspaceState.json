@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\configs",
+    "\\controllers",
+    "\\db",
+    "\\middleware",
+    "\\models",
+    "\\routes",
+    "\\uploads"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
